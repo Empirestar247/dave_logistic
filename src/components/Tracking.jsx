@@ -25,7 +25,7 @@ function Tracking() {
 
   return (
     <>
-      <div className="cover">
+      <div className="bg-cover">
         <div className="text-center pt-3 text-light">
           <h2 className="pt-5">Tracking</h2>
           <p>Home <i className="fa fa-arrow-right ms-3 me-3"></i> Tracking</p>
