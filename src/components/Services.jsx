@@ -13,7 +13,7 @@ function Services() {
         </div>
       </div>
 
-      <div className="container mt-5">
+      <div className="container mt-5" data-aos="fade-up">
         <Card2/>
 
         <div className="row">
@@ -22,7 +22,7 @@ function Services() {
             </div>
             <div className="col-md-6"data-aos="fade-up">
               <h2>THE COMPLETE SOLUTION</h2>
-              <div className="bg-red"></div>
+              <div className="bg-red" data-aos="fade-up"></div>
               <p className="m-3"> Our warehousing services are known nationwide to be one of the most reliable, safe and affordable, because we take pride in delivering the best of warehousing services, at the most reasonable prices. Pleasure and praising pain was born and I will give you a complete account of system, and expound actual teachings occasionally circumstances.</p>              
             </div>
         </div>
