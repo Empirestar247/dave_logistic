@@ -1,7 +1,6 @@
-import React from "react";
-import Card2 from './Card2';
-import about2 from '../assets/about2.png';
-
+import React from "react"
+import Card2 from './Card2'
+import about2 from '../assets/about2.png'
 
 function Services() {
   return (
@@ -13,7 +12,7 @@ function Services() {
         </div>
       </div>
 
-      <div className="container mt-5" data-aos="fade-up">
+      <div className="container mt-5"data-aos="fade-up" >
         <Card2/>
 
         <div className="row">

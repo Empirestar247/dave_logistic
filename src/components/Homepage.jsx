@@ -10,7 +10,7 @@ function Homepage() {
   return (
     <>
       <div className="hero">
-        <div className="container text-light text-center pt-5">
+        <div className="container text-light text-center">
           <h1 className='pt-5' style={{ marginTop: '60px' }}>Easy & Quick Cargo Shipping Services</h1>
           <p style={{ fontSize: '24px', fontWeight: '700' }}>Book low-cost sea freight shipping services. 
             Get an instant quote.</p>
